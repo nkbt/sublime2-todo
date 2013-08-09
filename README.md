@@ -4,7 +4,7 @@ TODO language and syntax highlight for Sublime Text 2
 
 ## Screenshots ##
 
-![Screenshot with default color scheme](https://raw.github.com/nkbt/sublime2-todo/master/todo/default.png "Screenshot with default color scheme")
+![Screenshot with default color scheme](https://raw.github.com/nkbt/sublime2-todo/master/todo/default.png?v2 "Screenshot with default color scheme")
 
 ![Screenshot with bright color scheme](https://raw.github.com/nkbt/sublime2-todo/master/todo/bright.png "Screenshot with bright color scheme")
 
