@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>author</key>
+	<string>Nik Butenko</string>
+	<key>name</key>
+	<string>TODO</string>
+	<key>settings</key>
+	<array>
+		<dict>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#2E2C2B</string>
+				<key>caret</key>
+				<string>#F8F8F0</string>
+				<key>foreground</key>
+				<string>#B0B0B0</string>
+				<key>invisibles</key>
+				<string>#3B3A32</string>
+				<key>lineHighlight</key>
+				<string>#3B3633</string>
+				<key>selection</key>
+				<string>#161A1F</string>
+				<key>findHighlight</key>
+				<string>#FFE792</string>
+				<key>findHighlightForeground</key>
+				<string>#000000</string>
+				<key>selectionBorder</key>
+				<string>#222218</string>
+				<key>activeGuide</key>
+				<string>#9D550FB0</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>scope</key>
+			<string>todo.category</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ee0</string>
+				<key>fontStyle</key>
+				<string>underline</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>todo.priority1</string>
+			<key>settings</key>
+			<dict>
+				<!-- <key>background</key> -->
+				<!-- <string>#600</string> -->
+				<key>foreground</key>
+				<string>#faa</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>todo.priority2</string>
+			<key>settings</key>
+			<dict>
+				<!-- <key>background</key> -->
+				<!-- <string>#f77</string> -->
+				<key>foreground</key>
+				<string>#f66</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>todo.priority3</string>
+			<key>settings</key>
+			<dict>
+				<!-- <key>background</key> -->
+				<!-- <string>#f33</string> -->
+				<key>foreground</key>
+				<string>#f00</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>todo.status.done</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#0f0</string>
+				<key>foreground</key>
+				<string>#000000</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>todo.status.todo</string>
+			<key>settings</key>
+			<dict>
+				<!-- <key>background</key> -->
+				<!-- <string>#000</string> -->
+				<key>foreground</key>
+				<string>#fff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>todo.status.inprogress</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#ffff33</string>
+				<key>foreground</key>
+				<string>#000000</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>todo.type.new</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#00aa00</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>todo.type.fix</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#aa0000</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>todo.type.upd</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#000088</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+	</array>
+	<key>uuid</key>
+	<string>4FCFA210-B247-11D9-9D00-000D93347A42</string>
+</dict>
+</plist>
