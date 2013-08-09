@@ -8,7 +8,7 @@ TODO language and syntax highlight for Sublime Text 2
 
 ![Screenshot with bright color scheme](https://raw.github.com/nkbt/sublime2-todo/master/todo/bright.png "Screenshot with bright color scheme")
 
-## Example ##
+## Example of .todo file content ##
 
 	1. Group
 
