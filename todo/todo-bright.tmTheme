@@ -91,6 +91,19 @@
 		</dict>
 		<dict>
 			<key>scope</key>
+			<string>todo.status.blocked</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#f66</string>
+				<key>foreground</key>
+				<string>#000000</string>
+				<key>fontStyle</key>
+				<string>italic</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
 			<string>todo.status.todo</string>
 			<key>settings</key>
 			<dict>

@@ -34,7 +34,7 @@
       "name": "todo.priority1.todo"
     },
     {
-      "match": "\\bDone\\b",
+      "match": "\\bDone\\b|\\bFinished\\b",
       "name": "todo.status.done.todo"
     },
     {
@@ -42,7 +42,11 @@
       "name": "todo.status.todo.todo"
     },
     {
-      "match": "\\bIn [Pp]rogress\\b",
+      "match": "\\bBlock(ed)?\\b",
+      "name": "todo.status.blocked.todo"
+    },
+    {
+      "match": "\\b(In ?)?[Pp]rogress\\b|\\bOngoing\\b",
       "name": "todo.status.inprogress.todo"
     },
     {
